@@ -1,0 +1,71 @@
+{
+    "商店": {
+        "x": 0,
+        "y": 0,
+        "width": 200,
+        "height": 200,
+        "source_image": "H:\\own\\mapbox\\spriteTool\\input\\商店.png",
+        "image": "sprite.png",
+        "total_width": 400,
+        "total_height": 400,
+        "escaped_image": "sprite.png",
+        "offset_x": 0,
+        "offset_y": 0,
+        "px": {
+            "x": "0px",
+            "y": "0px",
+            "offset_x": "0px",
+            "offset_y": "0px",
+            "height": "200px",
+            "width": "200px",
+            "total_height": "400px",
+            "total_width": "400px"
+        }
+    },
+    "扔鸡蛋": {
+        "x": 200,
+        "y": 0,
+        "width": 200,
+        "height": 200,
+        "source_image": "H:\\own\\mapbox\\spriteTool\\input\\扔鸡蛋.png",
+        "image": "sprite.png",
+        "total_width": 400,
+        "total_height": 400,
+        "escaped_image": "sprite.png",
+        "offset_x": -200,
+        "offset_y": 0,
+        "px": {
+            "x": "200px",
+            "y": "0px",
+            "offset_x": "-200px",
+            "offset_y": "0px",
+            "height": "200px",
+            "width": "200px",
+            "total_height": "400px",
+            "total_width": "400px"
+        }
+    },
+    "相册": {
+        "x": 0,
+        "y": 200,
+        "width": 200,
+        "height": 200,
+        "source_image": "H:\\own\\mapbox\\spriteTool\\input\\相册.png",
+        "image": "sprite.png",
+        "total_width": 400,
+        "total_height": 400,
+        "escaped_image": "sprite.png",
+        "offset_x": 0,
+        "offset_y": -200,
+        "px": {
+            "x": "0px",
+            "y": "200px",
+            "offset_x": "0px",
+            "offset_y": "-200px",
+            "height": "200px",
+            "width": "200px",
+            "total_height": "400px",
+            "total_width": "400px"
+        }
+    }
+}
